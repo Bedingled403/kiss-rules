@@ -8,7 +8,7 @@
     "build": "rm -rf dist && mkdir dist && babel-node src/index.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.10",
+    "@babel/core": "^7.29.6",
     "@babel/node": "^7.22.10",
     "@babel/preset-env": "^7.22.10"
   }
